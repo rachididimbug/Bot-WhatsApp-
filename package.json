@@ -1,0 +1,13 @@
+{
+  "name": "bot-whatsapp-rachidi",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp gratuit pour Rachidi",
+  "main": "index.js",
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
